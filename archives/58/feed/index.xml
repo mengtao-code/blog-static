@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: 	</title>
-	<atom:link href="/static-blog/category/Uncategorized/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/</link>
+	Comments on: MiniPosts	</title>
+	<atom:link href="/static-blog/archives/58/feed" rel="self" type="application/rss+xml" />
+	<link>/static-blog/archives/58</link>
 	<description></description>
-	<lastBuildDate>Sat, 06 Jan 2024 04:25:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jan 2024 16:47:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

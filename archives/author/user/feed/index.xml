@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Mengtao&#039;s Blog</title>
-	<atom:link href="/static-blog/feed" rel="self" type="application/rss+xml" />
+	<title>mengtao &#8211; Mengtao&#039;s Blog</title>
+	<atom:link href="/static-blog/archives/author/user/feed" rel="self" type="application/rss+xml" />
 	<link>/static-blog/</link>
 	<description></description>
 	<lastBuildDate>Sat, 06 Jan 2024 04:25:41 +0000</lastBuildDate>

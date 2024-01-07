@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MiniPosts &#8211; Mengtao&#039;s Blog</title>
+	<atom:link href="/static-blog/archives/category/miniposts/feed" rel="self" type="application/rss+xml" />
+	<link>/static-blog/</link>
+	<description></description>
+	<lastBuildDate>Sat, 06 Jan 2024 04:25:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>MiniPosts</title>
+		<link>/static-blog/archives/97</link>
+					<comments>/static-blog/archives/97#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Sat, 06 Jan 2024 04:25:41 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/static-blog/archives/97</guid>
+
+					<description><![CDATA[厌倦了这种不合理的生活。]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/97/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/static-blog/archives/90</link>
+					<comments>/static-blog/archives/90#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Sat, 06 Jan 2024 00:00:49 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/static-blog/archives/90</guid>
+
+					<description><![CDATA[早晨的一碗鸡蛋汤，简直是人间美味😋]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/90/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/static-blog/archives/58</link>
+					<comments>/static-blog/archives/58#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 16:47:10 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/static-blog/archives/58</guid>
+
+					<description><![CDATA[wordpress的table也太简陋了，我也不想安装其他的插件]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/58/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

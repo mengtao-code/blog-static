@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Videos &#8211; Mengtao&#039;s Blog</title>
+	<atom:link href="/static-blog/archives/tag/videos/feed" rel="self" type="application/rss+xml" />
+	<link>/static-blog/</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 Jan 2024 17:28:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>时隔一年Chris Rock回应奥斯卡巴掌事件</title>
+		<link>/static-blog/archives/67</link>
+					<comments>/static-blog/archives/67#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 17:27:27 +0000</pubDate>
+				<category><![CDATA[Reference]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">/static-blog/?p=67</guid>
+
+					<description><![CDATA[Link]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/67/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
