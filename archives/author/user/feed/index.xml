@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>mengtao &#8211; Mengtao&#039;s Blog</title>
+	<title>mengtao &#8211; mengtao的博客</title>
 	<atom:link href="/static-blog/archives/author/user/feed" rel="self" type="application/rss+xml" />
 	<link>/static-blog/</link>
 	<description></description>
-	<lastBuildDate>Sat, 06 Jan 2024 04:25:41 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Sat, 13 Jan 2024 03:22:40 +0000</lastBuildDate>
+	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -21,122 +21,170 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>MiniPosts</title>
-		<link>/static-blog/archives/97</link>
-					<comments>/static-blog/archives/97#respond</comments>
+		<link>/static-blog/archives/180</link>
+					<comments>/static-blog/archives/180#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Sat, 06 Jan 2024 04:25:41 +0000</pubDate>
+		<pubDate>Sat, 13 Jan 2024 00:02:37 +0000</pubDate>
 				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/97</guid>
+		<guid isPermaLink="false">/static-blog/archives/180</guid>
 
-					<description><![CDATA[厌倦了这种不合理的生活。]]></description>
+					<description><![CDATA[习惯了ublock-origin后，网页上牛皮癣式的广告只会让我感到恶心，不会为它付任何费用]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/97/feed</wfw:commentRss>
+					<wfw:commentRss>/static-blog/archives/180/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/90</link>
-					<comments>/static-blog/archives/90#respond</comments>
+		<title>博客样式优化</title>
+		<link>/static-blog/archives/153</link>
+					<comments>/static-blog/archives/153#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Sat, 06 Jan 2024 00:00:49 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/90</guid>
-
-					<description><![CDATA[早晨的一碗鸡蛋汤，简直是人间美味😋]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/90/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>新的一年</title>
-		<link>/static-blog/archives/73</link>
-					<comments>/static-blog/archives/73#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Thu, 04 Jan 2024 18:32:58 +0000</pubDate>
+		<pubDate>Fri, 12 Jan 2024 23:23:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/static-blog/?p=73</guid>
+		<guid isPermaLink="false">/static-blog/?p=153</guid>
 
-					<description><![CDATA[刚建站没多久，还没来得及发一篇博客，就要把主页的2023改成2024了，惭愧惭愧。 其实根本不是刚建站，只是从wordpress转移到静态博客，过了几天又转移了回来，觉得自己萌萌哒（sb）。我喜欢这种能提供一整套解决方案的东西，比如wordpress、1password、onedrive等，而不是提供一个残缺的功能。比如假如我从1password换到了keepass，那我就要再找一个其他的支持2fa的软件或者用第三方插件，这就不如1password。说回建站，其实我选用的以docusaurus为基础的静态博客的方案没有什么大问题，但是wordpress的整体性更好，就选它了。 使用wordpress时，我使用尽可能少的自定义功能。对于主题，只使用官方自带主题。对于插件，只使用必须的插件，比如页面缓存、备份、生成静态网页等。不使用第三方的block，就算是内置的block，也只使用自己真正需要的那部分。 设计布局时，我使得博客尽可能的简约，并且以文字为核心。为了避免外部链接是失效，我使用SingleFile对外部内容进行快照，保证页面总是可访问的。对于大文件，我保存到OneDrive中并以链接的形式展示出来。 内容才是最重要的。为了鼓励我自己多写点东西，我创建了一个Shortcuts来快速发布一些简短的内容。它们没有放在首页上，我把它们合并后放到了MiniPosts这个页面中，这样连Twitter都不需要了。这也正是我想要的，尽可能把更多的东西塞到一个统一管理的博客里面，避免这一块那一块的。 年度规划倒没什么好说的，我欠缺的不是详细的规划，而是执行力。所以我把我想要养成的习惯放到notion的页面（链接）中，并且每天都记录！顺便一说，notion的table是真的好用啊，至今还没找到能超越的产品。Microsoft365的Lists算相近的产品，不过也欠缺了很多功能。 新的一年，希望自己多多记录自己做过的有价值的事情。]]></description>
+					<description><![CDATA[虽然我使用了WordPress的官方主题，但是仅仅是默认配置是不够的，还会遇到一些问题，在这里记录下问题的解决 [&#8230;]]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/73/feed</wfw:commentRss>
+					<wfw:commentRss>/static-blog/archives/153/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>时隔一年Chris Rock回应奥斯卡巴掌事件</title>
-		<link>/static-blog/archives/67</link>
-					<comments>/static-blog/archives/67#respond</comments>
+		<title>关于本站</title>
+		<link>/static-blog/archives/91</link>
+					<comments>/static-blog/archives/91#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Thu, 04 Jan 2024 17:27:27 +0000</pubDate>
-				<category><![CDATA[Reference]]></category>
-		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">/static-blog/?p=67</guid>
+		<pubDate>Fri, 12 Jan 2024 21:52:28 +0000</pubDate>
+				<category><![CDATA[Others]]></category>
+		<guid isPermaLink="false">/static-blog/?p=91</guid>
 
-					<description><![CDATA[Link]]></description>
+					<description><![CDATA[这里是一个分享互联网有趣想法的站点。欢迎收藏备份站点，以备不时之需。 订阅 由于本站会包含一些非博客向的内容（ [&#8230;]]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/67/feed</wfw:commentRss>
+					<wfw:commentRss>/static-blog/archives/91/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>MiniPosts</title>
-		<link>/static-blog/archives/58</link>
-					<comments>/static-blog/archives/58#respond</comments>
+		<link>/static-blog/archives/142</link>
+					<comments>/static-blog/archives/142#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Thu, 04 Jan 2024 16:47:10 +0000</pubDate>
+		<pubDate>Fri, 12 Jan 2024 09:31:56 +0000</pubDate>
 				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/58</guid>
+		<guid isPermaLink="false">/static-blog/archives/142</guid>
 
-					<description><![CDATA[wordpress的table也太简陋了，我也不想安装其他的插件]]></description>
+					<description><![CDATA[其实自己的博客只有中文内容，那就索性全改成中文好了。]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/58/feed</wfw:commentRss>
+					<wfw:commentRss>/static-blog/archives/142/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>送东阳马生序</title>
-		<link>/static-blog/archives/22</link>
-					<comments>/static-blog/archives/22#respond</comments>
+		<title>MiniPosts</title>
+		<link>/static-blog/archives/134</link>
+					<comments>/static-blog/archives/134#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Fri, 29 Dec 2023 07:40:16 +0000</pubDate>
-				<category><![CDATA[Reference]]></category>
-		<category><![CDATA[Chinese]]></category>
-		<guid isPermaLink="false">/static-blog/?p=22</guid>
+		<pubDate>Fri, 12 Jan 2024 04:54:10 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/static-blog/archives/134</guid>
 
-					<description><![CDATA[余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以还。天大寒，砚冰坚，手指不可屈伸，弗之怠。录毕，走送之，不敢稍逾约。以是人多以书假余，余因得遍观群书。既加冠，益慕圣贤之道，又患无硕师名人与游，尝趋百里外，从乡之先达执经叩问。先达德隆望尊，门人弟子填其室，未尝稍降辞色。余立侍左右，援疑质理倾耳以请；或遇其叱咄，色愈恭，礼愈至，不敢出一言以复；俟其欣悦，则又请焉。故余虽愚，卒获有所闻。 当余之从师也，负箧曳屣，行深山巨谷中，穷冬烈风，大雪深数尺，足肤皲裂而不知。至舍，四支僵劲不能动，媵人持汤沃灌，以衾拥覆，久而乃和。寓逆旅，主人日再食，无鲜肥滋味之享。同舍生皆被绮绣，戴朱缨宝饰之帽，腰白玉之环，左佩刀，右备容臭，烨然若神人；余则缊袍敝衣处其间，略无慕艳意，以中有足乐者，不知口体之奉不若人也之勤且艰若此。今虽耄老，未有所成，犹幸预君子之列，而承天子之宠光，缀公卿之后，日侍坐备顾问，四海亦谬称其氏名，况才之过于余者乎？]]></description>
+					<description><![CDATA[我真的“佩服”我自己，又想把wordpress换成其他方案了。]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/22/feed</wfw:commentRss>
+					<wfw:commentRss>/static-blog/archives/134/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>劝学</title>
-		<link>/static-blog/archives/20</link>
-					<comments>/static-blog/archives/20#respond</comments>
+		<title>MiniPosts</title>
+		<link>/static-blog/archives/133</link>
+					<comments>/static-blog/archives/133#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Fri, 29 Dec 2023 07:39:46 +0000</pubDate>
-				<category><![CDATA[Reference]]></category>
-		<category><![CDATA[Chinese]]></category>
-		<guid isPermaLink="false">/static-blog/?p=20</guid>
+		<pubDate>Thu, 11 Jan 2024 19:25:01 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/static-blog/archives/133</guid>
 
-					<description><![CDATA[君子曰：学不可以已。 青，取之于蓝，而青于蓝；冰，水为之，而寒于水。木直中绳，輮以为轮，其曲中规。虽有槁暴，不复挺者，輮使之然也。故木受绳则直，金就砺则利，君子博学而日参省乎己，则知明而行无过矣。 吾尝终日而思矣，不如须臾之所学也；吾尝跂而望矣，不如登高之博见也。登高而招，臂非加长也，而见者远；顺风而呼，声非加疾也，而闻者彰。假舆马者，非利足也，而致千里；假舟楫者，非能水也，而绝江河。君子生非异也，善假于物也。 积土成山，风雨兴焉；积水成渊，蛟龙生焉；积善成德，而神明自得，圣心备焉。故不积跬步，无以至千里；不积小流，无以成江海。骐骥一跃，不能十步；驽马十驾，功在不舍。锲而舍之，朽木不折；锲而不舍，金石可镂。蚓无爪牙之利，筋骨之强，上食埃土，下饮黄泉，用心一也。蟹六跪而二螯，非蛇鳝之穴无可寄托者，用心躁也。]]></description>
+					<description><![CDATA[一些朋友每天聊的东西都好无趣。]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/20/feed</wfw:commentRss>
+					<wfw:commentRss>/static-blog/archives/133/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/static-blog/archives/130</link>
+					<comments>/static-blog/archives/130#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Wed, 10 Jan 2024 21:08:35 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/static-blog/archives/130</guid>
+
+					<description><![CDATA[Craftopia这个游戏也太塞尔达了吧。。。]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/130/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>关于作者</title>
+		<link>/static-blog/archives/93</link>
+					<comments>/static-blog/archives/93#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Wed, 10 Jan 2024 21:02:41 +0000</pubDate>
+				<category><![CDATA[Others]]></category>
+		<guid isPermaLink="false">/static-blog/?p=93</guid>
+
+					<description><![CDATA[希望可以通过博客来整理自己的想法，并分享给其他人。如果有任何问题，欢迎邮件（mengtaoxin[at]out [&#8230;]]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/93/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Reference</title>
+		<link>/static-blog/archives/123</link>
+					<comments>/static-blog/archives/123#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Wed, 10 Jan 2024 20:55:33 +0000</pubDate>
+				<category><![CDATA[Reference]]></category>
+		<guid isPermaLink="false">/static-blog/?p=123</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/123/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/static-blog/archives/113</link>
+					<comments>/static-blog/archives/113#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Tue, 09 Jan 2024 02:16:14 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/static-blog/archives/113</guid>
+
+					<description><![CDATA[终于知道为什么博客看着这么难受了，原来是字间距太小了。]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/113/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

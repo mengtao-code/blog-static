@@ -8,18 +8,35 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Mengtao&#039;s Blog</title>
+	<title>Uncategorized &#8211; mengtao的博客</title>
 	<atom:link href="/static-blog/archives/category/uncategorized/feed" rel="self" type="application/rss+xml" />
 	<link>/static-blog/</link>
 	<description></description>
-	<lastBuildDate>Thu, 04 Jan 2024 18:32:58 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Sat, 13 Jan 2024 03:03:48 +0000</lastBuildDate>
+	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
+		<title>博客样式优化</title>
+		<link>/static-blog/archives/153</link>
+					<comments>/static-blog/archives/153#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 23:23:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/static-blog/?p=153</guid>
+
+					<description><![CDATA[虽然我使用了WordPress的官方主题，但是仅仅是默认配置是不够的，还会遇到一些问题，在这里记录下问题的解决 [&#8230;]]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/153/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>新的一年</title>
 		<link>/static-blog/archives/73</link>
 					<comments>/static-blog/archives/73#respond</comments>
@@ -29,7 +46,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/static-blog/?p=73</guid>
 
-					<description><![CDATA[刚建站没多久，还没来得及发一篇博客，就要把主页的2023改成2024了，惭愧惭愧。 其实根本不是刚建站，只是从wordpress转移到静态博客，过了几天又转移了回来，觉得自己萌萌哒（sb）。我喜欢这种能提供一整套解决方案的东西，比如wordpress、1password、onedrive等，而不是提供一个残缺的功能。比如假如我从1password换到了keepass，那我就要再找一个其他的支持2fa的软件或者用第三方插件，这就不如1password。说回建站，其实我选用的以docusaurus为基础的静态博客的方案没有什么大问题，但是wordpress的整体性更好，就选它了。 使用wordpress时，我使用尽可能少的自定义功能。对于主题，只使用官方自带主题。对于插件，只使用必须的插件，比如页面缓存、备份、生成静态网页等。不使用第三方的block，就算是内置的block，也只使用自己真正需要的那部分。 设计布局时，我使得博客尽可能的简约，并且以文字为核心。为了避免外部链接是失效，我使用SingleFile对外部内容进行快照，保证页面总是可访问的。对于大文件，我保存到OneDrive中并以链接的形式展示出来。 内容才是最重要的。为了鼓励我自己多写点东西，我创建了一个Shortcuts来快速发布一些简短的内容。它们没有放在首页上，我把它们合并后放到了MiniPosts这个页面中，这样连Twitter都不需要了。这也正是我想要的，尽可能把更多的东西塞到一个统一管理的博客里面，避免这一块那一块的。 年度规划倒没什么好说的，我欠缺的不是详细的规划，而是执行力。所以我把我想要养成的习惯放到notion的页面（链接）中，并且每天都记录！顺便一说，notion的table是真的好用啊，至今还没找到能超越的产品。Microsoft365的Lists算相近的产品，不过也欠缺了很多功能。 新的一年，希望自己多多记录自己做过的有价值的事情。]]></description>
+					<description><![CDATA[刚建站没多久，还没来得及发一篇博客，就要把主页的2023改成2024了，惭愧惭愧。 其实根本不是刚建站，只是从 [&#8230;]]]></description>
 		
 					<wfw:commentRss>/static-blog/archives/73/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>

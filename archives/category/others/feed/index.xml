@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Others &#8211; mengtao的博客</title>
+	<atom:link href="/static-blog/archives/category/others/feed" rel="self" type="application/rss+xml" />
+	<link>/static-blog/</link>
+	<description></description>
+	<lastBuildDate>Sat, 13 Jan 2024 03:22:40 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>关于本站</title>
+		<link>/static-blog/archives/91</link>
+					<comments>/static-blog/archives/91#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 21:52:28 +0000</pubDate>
+				<category><![CDATA[Others]]></category>
+		<guid isPermaLink="false">/static-blog/?p=91</guid>
+
+					<description><![CDATA[这里是一个分享互联网有趣想法的站点。欢迎收藏备份站点，以备不时之需。 订阅 由于本站会包含一些非博客向的内容（ [&#8230;]]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/91/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>关于作者</title>
+		<link>/static-blog/archives/93</link>
+					<comments>/static-blog/archives/93#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Wed, 10 Jan 2024 21:02:41 +0000</pubDate>
+				<category><![CDATA[Others]]></category>
+		<guid isPermaLink="false">/static-blog/?p=93</guid>
+
+					<description><![CDATA[希望可以通过博客来整理自己的想法，并分享给其他人。如果有任何问题，欢迎邮件（mengtaoxin[at]out [&#8230;]]]></description>
+		
+					<wfw:commentRss>/static-blog/archives/93/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
