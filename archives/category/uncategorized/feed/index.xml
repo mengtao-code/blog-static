@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Uncategorized &#8211; mengtao的博客</title>
-	<atom:link href="/static-blog/archives/category/uncategorized/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/</link>
-	<description></description>
-	<lastBuildDate>Sat, 13 Jan 2024 03:03:48 +0000</lastBuildDate>
+	<atom:link href="/blog-static/archives/category/uncategorized/feed" rel="self" type="application/rss+xml" />
+	<link>/blog-static/</link>
+	<description>记录生活点滴</description>
+	<lastBuildDate>Fri, 19 Jan 2024 08:51:39 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,35 +20,69 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
+		<title>Notion简单介绍</title>
+		<link>/blog-static/archives/328</link>
+					<comments>/blog-static/archives/328#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2024 08:51:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/blog-static/?p=328</guid>
+
+					<description><![CDATA[Notion作为流行的内容管理软件，在此介绍下Notion的基本功能。为了便于理解，下文会拿Office Wo [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog-static/archives/328/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>像发微博一样更新wordpress</title>
+		<link>/blog-static/archives/256</link>
+					<comments>/blog-static/archives/256#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2024 04:10:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/blog-static/?p=256</guid>
+
+					<description><![CDATA[博客的结构包括标题和正文，但是如果正文只有几十字的话，标题就没有存在的必要了，就像微博、Twitter一样，一 [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog-static/archives/256/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>博客样式优化</title>
-		<link>/static-blog/archives/153</link>
-					<comments>/static-blog/archives/153#respond</comments>
+		<link>/blog-static/archives/153</link>
+					<comments>/blog-static/archives/153#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Fri, 12 Jan 2024 23:23:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/static-blog/?p=153</guid>
+		<guid isPermaLink="false">/blog-static/?p=153</guid>
 
 					<description><![CDATA[虽然我使用了WordPress的官方主题，但是仅仅是默认配置是不够的，还会遇到一些问题，在这里记录下问题的解决 [&#8230;]]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/153/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/153/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>新的一年</title>
-		<link>/static-blog/archives/73</link>
-					<comments>/static-blog/archives/73#respond</comments>
+		<link>/blog-static/archives/73</link>
+					<comments>/blog-static/archives/73#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Thu, 04 Jan 2024 18:32:58 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/static-blog/?p=73</guid>
+		<guid isPermaLink="false">/blog-static/?p=73</guid>
 
 					<description><![CDATA[刚建站没多久，还没来得及发一篇博客，就要把主页的2023改成2024了，惭愧惭愧。 其实根本不是刚建站，只是从 [&#8230;]]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/73/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/73/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

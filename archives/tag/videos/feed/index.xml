@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Videos &#8211; mengtao的博客</title>
-	<atom:link href="/static-blog/archives/tag/videos/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/</link>
-	<description></description>
+	<atom:link href="/blog-static/archives/tag/videos/feed" rel="self" type="application/rss+xml" />
+	<link>/blog-static/</link>
+	<description>记录生活点滴</description>
 	<lastBuildDate>Thu, 04 Jan 2024 17:28:50 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>时隔一年Chris Rock回应奥斯卡巴掌事件</title>
-		<link>/static-blog/archives/67</link>
-					<comments>/static-blog/archives/67#respond</comments>
+		<link>/blog-static/archives/67</link>
+					<comments>/blog-static/archives/67#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Thu, 04 Jan 2024 17:27:27 +0000</pubDate>
 				<category><![CDATA[Reference]]></category>
 		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">/static-blog/?p=67</guid>
+		<guid isPermaLink="false">/blog-static/?p=67</guid>
 
 					<description><![CDATA[Link]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/67/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/67/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

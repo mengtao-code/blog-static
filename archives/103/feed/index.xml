@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	《MiniPosts》的评论	</title>
-	<atom:link href="/static-blog/archives/103/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/archives/103</link>
-	<description></description>
+	<atom:link href="/blog-static/archives/103/feed" rel="self" type="application/rss+xml" />
+	<link>/blog-static/archives/103</link>
+	<description>记录生活点滴</description>
 	<lastBuildDate>Sun, 07 Jan 2024 13:11:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

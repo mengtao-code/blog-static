@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	《关于本站》的评论	</title>
-	<atom:link href="/static-blog/archives/91/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/archives/91</link>
-	<description></description>
-	<lastBuildDate>Sat, 13 Jan 2024 03:22:40 +0000</lastBuildDate>
+	<atom:link href="/blog-static/archives/91/feed" rel="self" type="application/rss+xml" />
+	<link>/blog-static/archives/91</link>
+	<description>记录生活点滴</description>
+	<lastBuildDate>Sat, 13 Jan 2024 08:12:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

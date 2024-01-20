@@ -9,10 +9,10 @@
 
 <channel>
 	<title>MiniPosts &#8211; mengtao的博客</title>
-	<atom:link href="/static-blog/archives/category/miniposts/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/</link>
-	<description></description>
-	<lastBuildDate>Sat, 13 Jan 2024 00:02:37 +0000</lastBuildDate>
+	<atom:link href="/blog-static/archives/category/miniposts/feed" rel="self" type="application/rss+xml" />
+	<link>/blog-static/</link>
+	<description>记录生活点滴</description>
+	<lastBuildDate>Sat, 20 Jan 2024 06:16:17 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,170 +21,146 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>MiniPosts</title>
-		<link>/static-blog/archives/180</link>
-					<comments>/static-blog/archives/180#respond</comments>
+		<link>/blog-static/archives/341</link>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Sat, 20 Jan 2024 06:16:17 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/blog-static/?p=341</guid>
+
+					<description><![CDATA[不小心转账给前房东了，又还给我了。还是好人多啊。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/blog-static/archives/337</link>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2024 11:36:24 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/blog-static/?p=337</guid>
+
+					<description><![CDATA[更新了博客的样式，现在超链接不会显示得很奇怪了。而且增加了鼠标附上去时的颜色变化，nice！]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/blog-static/archives/335</link>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2024 09:01:59 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/blog-static/?p=335</guid>
+
+					<description><![CDATA[像Han（https://github.com/ethantw/Han）这个中文网页排版优化的项目应该是最基本 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/blog-static/archives/333</link>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2024 08:54:36 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/blog-static/?p=333</guid>
+
+					<description><![CDATA[如果找了借口不去写博客，就一连好几天都不会写…]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/blog-static/archives/326</link>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2024 01:17:31 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/blog-static/?p=326</guid>
+
+					<description><![CDATA[iphone的这个手记app和我之前的一个想法好像啊。我之前就觉得，单纯的图片是没有意义的，需要配合写一些文字 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/blog-static/archives/317</link>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2024 09:33:43 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/blog-static/?p=317</guid>
+
+					<description><![CDATA[这样那样的执念是苦难的开始。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/blog-static/archives/300</link>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2024 23:03:03 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/blog-static/?p=300</guid>
+
+					<description><![CDATA[原来我的暗夜精灵9一直有黑屏问题，只是我一直连着其他显示器在用，没触发这个bug…]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/blog-static/archives/272</link>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Sat, 13 Jan 2024 13:49:50 +0000</pubDate>
+				<category><![CDATA[MiniPosts]]></category>
+		<guid isPermaLink="false">/blog-static/?p=272</guid>
+
+					<description><![CDATA[不再整博客样式啦，总归是不可能达到最佳状态的。先专注于内容。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MiniPosts</title>
+		<link>/blog-static/archives/180</link>
+					<comments>/blog-static/archives/180#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Sat, 13 Jan 2024 00:02:37 +0000</pubDate>
 				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/180</guid>
+		<guid isPermaLink="false">/blog-static/archives/180</guid>
 
 					<description><![CDATA[习惯了ublock-origin后，网页上牛皮癣式的广告只会让我感到恶心，不会为它付任何费用]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/180/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/180/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>MiniPosts</title>
-		<link>/static-blog/archives/142</link>
-					<comments>/static-blog/archives/142#respond</comments>
+		<link>/blog-static/archives/142</link>
+					<comments>/blog-static/archives/142#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Fri, 12 Jan 2024 09:31:56 +0000</pubDate>
 				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/142</guid>
+		<guid isPermaLink="false">/blog-static/archives/142</guid>
 
 					<description><![CDATA[其实自己的博客只有中文内容，那就索性全改成中文好了。]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/142/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/134</link>
-					<comments>/static-blog/archives/134#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Fri, 12 Jan 2024 04:54:10 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/134</guid>
-
-					<description><![CDATA[我真的“佩服”我自己，又想把wordpress换成其他方案了。]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/134/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/133</link>
-					<comments>/static-blog/archives/133#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Thu, 11 Jan 2024 19:25:01 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/133</guid>
-
-					<description><![CDATA[一些朋友每天聊的东西都好无趣。]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/133/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/130</link>
-					<comments>/static-blog/archives/130#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Wed, 10 Jan 2024 21:08:35 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/130</guid>
-
-					<description><![CDATA[Craftopia这个游戏也太塞尔达了吧。。。]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/130/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/113</link>
-					<comments>/static-blog/archives/113#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Tue, 09 Jan 2024 02:16:14 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/113</guid>
-
-					<description><![CDATA[终于知道为什么博客看着这么难受了，原来是字间距太小了。]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/113/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/106</link>
-					<comments>/static-blog/archives/106#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Mon, 08 Jan 2024 01:40:24 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/106</guid>
-
-					<description><![CDATA[想转移到C#的生态，自然就想优先使用Azure。但是用着真没AWS舒服啊。。。]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/106/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/103</link>
-					<comments>/static-blog/archives/103#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Sun, 07 Jan 2024 13:11:47 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/103</guid>
-
-					<description><![CDATA[没法使用手机端的wordpress发布内容了，查看了下是因为潜在的安全风险，服务提供商关闭了xmlrpc服务]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/103/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/100</link>
-					<comments>/static-blog/archives/100#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Sun, 07 Jan 2024 06:54:46 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/100</guid>
-
-					<description><![CDATA[这两天看了youtube的各种类似今日说法的故事。感觉核心就2点，一是冲动是魔鬼，二是保持一颗摆烂的心。]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/100/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MiniPosts</title>
-		<link>/static-blog/archives/98</link>
-					<comments>/static-blog/archives/98#respond</comments>
-		
-		<dc:creator><![CDATA[mengtao]]></dc:creator>
-		<pubDate>Sun, 07 Jan 2024 02:46:06 +0000</pubDate>
-				<category><![CDATA[MiniPosts]]></category>
-		<guid isPermaLink="false">/static-blog/archives/98</guid>
-
-					<description><![CDATA[把plex部署到一个云服务器上去了，再也不想搞nas了]]></description>
-		
-					<wfw:commentRss>/static-blog/archives/98/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/142/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

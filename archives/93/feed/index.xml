@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	《关于作者》的评论	</title>
-	<atom:link href="/static-blog/archives/93/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/archives/93</link>
-	<description></description>
+	<atom:link href="/blog-static/archives/93/feed" rel="self" type="application/rss+xml" />
+	<link>/blog-static/archives/93</link>
+	<description>记录生活点滴</description>
 	<lastBuildDate>Sat, 13 Jan 2024 02:27:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

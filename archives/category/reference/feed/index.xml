@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Reference &#8211; mengtao的博客</title>
-	<atom:link href="/static-blog/archives/category/reference/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/</link>
-	<description></description>
-	<lastBuildDate>Wed, 10 Jan 2024 20:55:33 +0000</lastBuildDate>
+	<atom:link href="/blog-static/archives/category/reference/feed" rel="self" type="application/rss+xml" />
+	<link>/blog-static/</link>
+	<description>记录生活点滴</description>
+	<lastBuildDate>Mon, 15 Jan 2024 04:23:57 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,70 +20,104 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
+		<title>时代杂志评选的百大小说</title>
+		<link>/blog-static/archives/302</link>
+					<comments>/blog-static/archives/302#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2024 04:23:57 +0000</pubDate>
+				<category><![CDATA[Reference]]></category>
+		<guid isPermaLink="false">/blog-static/?p=302</guid>
+
+					<description><![CDATA[原始链接 备份链接]]></description>
+		
+					<wfw:commentRss>/blog-static/archives/302/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>内容农场</title>
+		<link>/blog-static/archives/295</link>
+					<comments>/blog-static/archives/295#respond</comments>
+		
+		<dc:creator><![CDATA[mengtao]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2024 06:56:43 +0000</pubDate>
+				<category><![CDATA[Reference]]></category>
+		<guid isPermaLink="false">/blog-static/?p=295</guid>
+
+					<description><![CDATA[很多东西属于是，自己很熟悉但是不知道正式名字。一旦听到正式名字的时候，就一见如故了。内容农场就是这样的。不过， [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog-static/archives/295/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Reference</title>
-		<link>/static-blog/archives/123</link>
-					<comments>/static-blog/archives/123#respond</comments>
+		<link>/blog-static/archives/123</link>
+					<comments>/blog-static/archives/123#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Wed, 10 Jan 2024 20:55:33 +0000</pubDate>
 				<category><![CDATA[Reference]]></category>
-		<guid isPermaLink="false">/static-blog/?p=123</guid>
+		<guid isPermaLink="false">/blog-static/?p=123</guid>
 
 					<description><![CDATA[]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/123/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/123/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>时隔一年Chris Rock回应奥斯卡巴掌事件</title>
-		<link>/static-blog/archives/67</link>
-					<comments>/static-blog/archives/67#respond</comments>
+		<link>/blog-static/archives/67</link>
+					<comments>/blog-static/archives/67#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Thu, 04 Jan 2024 17:27:27 +0000</pubDate>
 				<category><![CDATA[Reference]]></category>
 		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">/static-blog/?p=67</guid>
+		<guid isPermaLink="false">/blog-static/?p=67</guid>
 
 					<description><![CDATA[Link]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/67/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/67/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>送东阳马生序</title>
-		<link>/static-blog/archives/22</link>
-					<comments>/static-blog/archives/22#respond</comments>
+		<link>/blog-static/archives/22</link>
+					<comments>/blog-static/archives/22#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Fri, 29 Dec 2023 07:40:16 +0000</pubDate>
 				<category><![CDATA[Reference]]></category>
-		<guid isPermaLink="false">/static-blog/?p=22</guid>
+		<guid isPermaLink="false">/blog-static/?p=22</guid>
 
 					<description><![CDATA[余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以还。天大寒，砚冰坚，手指不可屈伸，弗之怠。 [&#8230;]]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/22/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/22/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>劝学</title>
-		<link>/static-blog/archives/20</link>
-					<comments>/static-blog/archives/20#respond</comments>
+		<link>/blog-static/archives/20</link>
+					<comments>/blog-static/archives/20#respond</comments>
 		
 		<dc:creator><![CDATA[mengtao]]></dc:creator>
 		<pubDate>Fri, 29 Dec 2023 07:39:46 +0000</pubDate>
 				<category><![CDATA[Reference]]></category>
-		<guid isPermaLink="false">/static-blog/?p=20</guid>
+		<guid isPermaLink="false">/blog-static/?p=20</guid>
 
 					<description><![CDATA[君子曰：学不可以已。 青，取之于蓝，而青于蓝；冰，水为之，而寒于水。木直中绳，輮以为轮，其曲中规。虽有槁暴，不 [&#8230;]]]></description>
 		
-					<wfw:commentRss>/static-blog/archives/20/feed</wfw:commentRss>
+					<wfw:commentRss>/blog-static/archives/20/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

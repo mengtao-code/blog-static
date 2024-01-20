@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	《送东阳马生序》的评论	</title>
-	<atom:link href="/static-blog/archives/22/feed" rel="self" type="application/rss+xml" />
-	<link>/static-blog/archives/22</link>
-	<description></description>
+	<atom:link href="/blog-static/archives/22/feed" rel="self" type="application/rss+xml" />
+	<link>/blog-static/archives/22</link>
+	<description>记录生活点滴</description>
 	<lastBuildDate>Wed, 03 Jan 2024 00:33:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
